@@ -14,6 +14,7 @@ _Learn why conflicts happen and how to resolve them._
 </header>
 
 <!--
+
   <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
@@ -32,6 +33,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 1. Click **Merge pull request**.
 1. Delete the branch `my-resume` (optional).
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
 
 <footer>
 
